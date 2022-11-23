@@ -13,7 +13,7 @@ let package = Package(
     dependencies: [
         .package(
             url: "https://github.com/realm/realm-swift.git",
-            .upToNextMajor(from: "10.21.1")
+            .upToNextMajor(from: "10.32.3")
         )
     ],
     targets: [
